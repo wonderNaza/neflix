@@ -354,7 +354,7 @@ body {
 }
 
 /* mobile Device */
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 600px) {
   * {
     box-sizing: border-box;
     margin: 0;
